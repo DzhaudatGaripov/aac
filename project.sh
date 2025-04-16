@@ -3,4 +3,4 @@
 # Use "exit 1" to "exit 255" to simulate incorrect code
 # Another comment
 # Another comment
-exit 1
+exit 0
